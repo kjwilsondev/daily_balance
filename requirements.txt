@@ -13,7 +13,7 @@ cffi==1.13.0
 chardet==3.0.3
 Click==7.0
 clyent==1.2.1
-Django==3.0.1
+Django==3.1.12
 envparse==0.2.0
 Flask==1.1.1
 Flask-Bcrypt==0.7.1
